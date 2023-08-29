@@ -17,18 +17,39 @@ Welcome to the world of **Optimal Survival**, where Minecraft reaches its peak p
 - **Open Development**: My modpack is open-source, with the community's input at its heart.
 
 ## Installation
+**Prism Launcher :**
 
-1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download/).
+• Download and install the Prism Launcher from [their website](https://prismlauncher.org/).
 
-2. Clone or download this repository to your local machine.
+• Launch the Prism Launcher, log in or create an account.
 
-3. Launch the Minecraft Launcher and select the "Installations" tab.
+• Find your modpack, click "Install" to download and install it.
 
-4. Create a new installation and select the appropriate version of Minecraft for the modpack.
+• Click "Play" to start my modpack.
 
-5. In the "More Options" section, set the "Game directory" to the folder where you downloaded the repository.
+**ATLauncher :**
 
-6. Save the installation and launch the game with the newly created installation.
+• Download and install ATLauncher from [their website](https://atlauncher.com/).
+
+• Open ATLauncher, log in or create an account.
+
+• Go to "Instances," click "Add Instance."
+
+• Choose the modpack template, set version, and install.
+
+• Launch my modpack from the "Instances" tab.
+
+**Modrinth Launcher :**
+
+• Download and install the [Modrinth Launcher](https://modrinth.com/app).
+
+• Open the launcher, log in or create an account.
+
+• Browse and find your modpack, click "Install."
+
+• Launch my modpack when installation completes.
+
+**Remember to follow specific modpack or launcher instructions.**
 
 ## Contributing
 
@@ -37,10 +58,6 @@ We welcome contributions and suggestions from the community. Feel free to create
 ## Support
 
 If you encounter any issues or have questions about the modpack, feel free to [open an issue](https://github.com/Cacahouetes/Optimal-Survival/issues).
-
-## License
-
-This modpack is released under the [MIT License](LICENSE).
 
 ---
 
