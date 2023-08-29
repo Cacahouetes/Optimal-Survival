@@ -36,7 +36,7 @@ We welcome contributions and suggestions from the community. Feel free to create
 
 ## Support
 
-If you encounter any issues or have questions about the modpack, feel free to [open an issue](https://github.com/Cacahouetes/Optimal-Survival/issues) or join us on our [Discord server](link-to-discord).
+If you encounter any issues or have questions about the modpack, feel free to [open an issue](https://github.com/Cacahouetes/Optimal-Survival/issues).
 
 ## License
 
