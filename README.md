@@ -62,6 +62,7 @@ If you encounter any issues or have questions about the modpack, feel free to [o
 ## License
 
 This modpack is released under the [MIT License]().
+
 ---
 
 Elevate your Minecraft experience with **Optimal Survival** modpack. Unleash the power of enhanced performance, quality of life upgrades, and creative exploration. Join us in crafting the ultimate adventure!
