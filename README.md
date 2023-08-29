@@ -17,39 +17,8 @@ Welcome to the world of **Optimal Survival**, where Minecraft reaches its peak p
 - **Open Development**: My modpack is open-source, with the community's input at its heart.
 
 ## Installation
-**Prism Launcher :**
 
-• Download and install the Prism Launcher from [their website](https://prismlauncher.org/).
-
-• Launch the Prism Launcher, log in or create an account.
-
-• Find your modpack, click "Install" to download and install it.
-
-• Click "Play" to start my modpack.
-
-**ATLauncher :**
-
-• Download and install ATLauncher from [their website](https://atlauncher.com/).
-
-• Open ATLauncher, log in or create an account.
-
-• Go to "Instances," click "Add Instance."
-
-• Choose the modpack template, set version, and install.
-
-• Launch my modpack from the "Instances" tab.
-
-**Modrinth Launcher :**
-
-• Download and install the [Modrinth Launcher](https://modrinth.com/app).
-
-• Open the launcher, log in or create an account.
-
-• Browse and find your modpack, click "Install."
-
-• Launch my modpack when installation completes.
-
-**Remember to follow specific modpack or launcher instructions.**
+See [Modrinth Page](https://modrinth.com/modpack/optimal-survival) for installation
 
 ## Contributing
 
