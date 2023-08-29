@@ -61,7 +61,7 @@ If you encounter any issues or have questions about the modpack, feel free to [o
 
 ## License
 
-This modpack is released under the [MIT License]().
+This modpack is released under the [MIT License](https://github.com/Cacahouetes/Optimal-Survival/blob/main/LICENSE).
 
 ---
 
