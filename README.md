@@ -1,7 +1,7 @@
 # Optimal Survival Modpack
 
 <p align="center">
-  <img src="https://imgur.com/a/zWY5OuM" alt="Optimal Survival Banner">
+  <img src="[https://imgur.com/a/zWY5OuM](https://imgur.com/OJsrynq)" alt="Optimal Survival Banner">
 </p>
 
 Welcome to the world of **Optimal Survival**, where Minecraft reaches its peak performance and gameplay experience. This modpack is designed to enhance your journey in the Minecraft universe by providing improved FPS, quality of life enhancements, and a touch of creativity that takes your adventure to the next level.
