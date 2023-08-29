@@ -10,11 +10,11 @@ Welcome to the world of **Optimal Survival**, where Minecraft reaches its peak p
 
 - **Enhanced Performance**: Enjoy smoother gameplay and improved frame rates thanks to cutting-edge performance mods like Sodium and Lithium.
 
-- **Quality of Life Upgrades**: Experience a more convenient and enjoyable gameplay with features like organized inventories, intuitive shortcuts, and various enhancements that make your journey hassle-free.
+- **Quality of Life Upgrades**: Experience a more convenient and enjoyable gameplay with features like organized inventories, and various enhancements that make your journey hassle-free.
 
 - **Visual Excellence**: Immerse yourself in the stunning world of Minecraft with improved visuals and shader support. Discover the beauty of your surroundings like never before.
 
-- **Open Development**: Our modpack is open-source, with the community's input at its heart. We collaborate with mod developers to ensure a seamless experience for all players.
+- **Open Development**: My modpack is open-source, with the community's input at its heart. We collaborate with mod developers to ensure a seamless experience for all players.
 
 ## Installation
 
