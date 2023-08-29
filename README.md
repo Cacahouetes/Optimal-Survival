@@ -59,6 +59,9 @@ We welcome contributions and suggestions from the community. Feel free to create
 
 If you encounter any issues or have questions about the modpack, feel free to [open an issue](https://github.com/Cacahouetes/Optimal-Survival/issues).
 
+## License
+
+This modpack is released under the [MIT License]().
 ---
 
 Elevate your Minecraft experience with **Optimal Survival** modpack. Unleash the power of enhanced performance, quality of life upgrades, and creative exploration. Join us in crafting the ultimate adventure!
