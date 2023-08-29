@@ -14,7 +14,7 @@ Welcome to the world of **Optimal Survival**, where Minecraft reaches its peak p
 
 - **Visual Excellence**: Immerse yourself in the stunning world of Minecraft with improved visuals and shader support. Discover the beauty of your surroundings like never before.
 
-- **Open Development**: My modpack is open-source, with the community's input at its heart. We collaborate with mod developers to ensure a seamless experience for all players.
+- **Open Development**: My modpack is open-source, with the community's input at its heart.
 
 ## Installation
 
