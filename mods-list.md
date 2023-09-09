@@ -1,0 +1,100 @@
+- <a href="https://modrinth.com/mod/3dskinlayers" target="_blank">3D Skin Layers</a>
+- <a href="https://modrinth.com/mod/advancementinfo" target="_blank">AdvancementInfo</a>
+- <a href="https://modrinth.com/mod/ambientsounds" target="_blank">AmbientSounds</a>
+- <a href="https://modrinth.com/mod/animatica" target="_blank">Animatica</a>
+- <a href="https://modrinth.com/mod/antighost" target="_blank">AntiGhost</a>
+- <a href="https://modrinth.com/mod/appleskin" target="_blank">AppleSkin</a>
+- <a href="https://modrinth.com/mod/better-beds" target="_blank">Better Beds</a>
+- <a href="https://modrinth.com/mod/betterf3" target="_blank">BetterF3</a>
+- <a href="https://modrinth.com/mod/better-mount-hud" target="_blank">Better Mount HUD</a>
+- <a href="https://modrinth.com/mod/better-ping-display-fabric" target="_blank">Better Ping Display [Fabric]</a>
+- <a href="https://modrinth.com/mod/better-stats" target="_blank">Better Statistics Screen</a>
+- <a href="https://modrinth.com/mod/blur-fabric" target="_blank">Blur (Fabric)</a>
+- <a href="https://modrinth.com/mod/boat-item-view" target="_blank">Boat Item View</a>
+- <a href="https://modrinth.com/mod/bobby" target="_blank">Bobby</a>
+- <a href="https://modrinth.com/mod/bookshelf-lib" target="_blank">Bookshelf</a>
+- <a href="https://modrinth.com/mod/borderless-mining" target="_blank">Borderless Mining</a>
+- <a href="https://modrinth.com/mod/c2me-fabric" target="_blank">Concurrent Chunk Management Engine (Fabric)</a>
+- <a href="https://modrinth.com/mod/capes" target="_blank">Capes</a>
+- <a href="https://modrinth.com/mod/carpet" target="_blank">Carpet</a>
+- <a href="https://modrinth.com/mod/carpet-fixes" target="_blank">Carpet-Fixes</a>
+- <a href="https://modrinth.com/mod/chat-heads" target="_blank">Chat Heads</a>
+- <a href="https://modrinth.com/mod/chest-tracker" target="_blank">ChestTracker</a>
+- <a href="https://modrinth.com/mod/cit-resewn" target="_blank">CIT Resewn</a>
+- <a href="https://modrinth.com/mod/clumps" target="_blank">Clumps</a>
+- <a href="https://modrinth.com/mod/continuity" target="_blank">Continuity</a>
+- <a href="https://modrinth.com/mod/creativecore" target="_blank">CreativeCore</a>
+- <a href="https://modrinth.com/mod/cull-less-leaves" target="_blank">Cull Less Leaves</a>
+- <a href="https://modrinth.com/mod/dashloader" target="_blank">DashLoader</a>
+- <a href="https://modrinth.com/mod/debugify" target="_blank">Debugify</a>
+- <a href="https://modrinth.com/mod/detail-armor-bar" target="_blank">Detail Armor Bar</a>
+- <a href="https://modrinth.com/mod/dynamic-fps" target="_blank">Dynamic FPS</a>
+- <a href="https://modrinth.com/mod/eating-animation" target="_blank">Eating Animation</a>
+- <a href="https://modrinth.com/mod/ebe" target="_blank">Enhanced Block Entities</a>
+- <a href="https://modrinth.com/mod/entity-model-features" target="_blank">[EMF] Entity Model Features</a>
+- <a href="https://modrinth.com/mod/entitytexturefeatures" target="_blank">[ETF] Entity Texture Features</a>
+- <a href="https://modrinth.com/mod/entityculling" target="_blank">Entity Culling</a>
+- <a href="https://modrinth.com/mod/equipment-compare" target="_blank">Equipment Compare</a>
+- <a href="https://modrinth.com/mod/essential" target="_blank">ESSENTIAL Mod</a>
+- <a href="https://modrinth.com/mod/fabricskyboxes" target="_blank">FabricSkyboxes</a>
+- <a href="https://modrinth.com/mod/fastquit" target="_blank">FastQuit</a>
+- <a href="https://modrinth.com/mod/ferrite-core" target="_blank">FerriteCore</a>
+- <a href="https://modrinth.com/mod/forge-config-api-port" target="_blank">Forge Config API Port</a>
+- <a href="https://modrinth.com/mod/freecam" target="_blank">Freecam (Modrinth Edition)</a>
+- <a href="https://modrinth.com/mod/fabricskyboxes-interop" target="_blank">FabricSkyBoxes Interop</a>
+- <a href="https://modrinth.com/mod/gamma-utils" target="_blank">Gamma Utils (Fullbright)</a>
+- <a href="https://modrinth.com/mod/held-item-info" target="_blank">Held Item Info</a>
+- <a href="https://modrinth.com/mod/hold-that-chunk" target="_blank">Hold That Chunk</a>
+- <a href="https://modrinth.com/mod/iceberg" target="_blank">Iceberg</a>
+- <a href="https://modrinth.com/mod/immediatelyfast" target="_blank">ImmediatelyFast</a>
+- <a href="https://modrinth.com/mod/indium" target="_blank">Indium</a>
+- <a href="https://modrinth.com/mod/inventory-control-tweaks" target="_blank">Inventory Control Tweaks</a>
+- <a href="https://modrinth.com/mod/inventory-profiles-next" target="_blank">Inventory Profiles Next</a>
+- <a href="https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge" target="_blank">Inventory HUD+</a>
+- <a href="https://modrinth.com/mod/iris" target="_blank">Iris Shaders</a>
+- <a href="https://modrinth.com/mod/itemphysic-lite" target="_blank">ItemPhysic Lite</a>
+- <a href="https://modrinth.com/mod/jade" target="_blank">Jade 🔍</a>
+- <a href="https://modrinth.com/mod/krypton" target="_blank">Krypton</a>
+- <a href="https://modrinth.com/mod/lambdabettergrass" target="_blank">LambdaBetterGrass</a>
+- <a href="https://modrinth.com/mod/lambdynamiclights" target="_blank">LambDynamicLights</a>
+- <a href="https://modrinth.com/mod/language-reload" target="_blank">Language Reload</a>
+- <a href="https://modrinth.com/mod/lazydfu" target="_blank">LazyDFU</a>
+- <a href="https://modrinth.com/mod/legendary-tooltips" target="_blank">Legendary Tooltips</a>
+- <a href="https://modrinth.com/mod/libipn" target="_blank">libIPN</a>
+- <a href="https://www.curseforge.com/minecraft/mc-mods/litematica" target="_blank">Litematica</a>
+- <a href="https://modrinth.com/mod/lithium" target="_blank">Lithium</a>
+- <a href="https://modrinth.com/mod/main-menu-credits" target="_blank">Main Menu Credits</a>
+- <a href="https://www.curseforge.com/minecraft/mc-mods/malilib" target="_blank">MaLiLib</a>
+- <a href="https://modrinth.com/mod/memoryleakfix" target="_blank">Memory Leak Fix</a>
+- <a href="https://www.curseforge.com/minecraft/mc-mods/minihud" target="_blank">MiniHUD</a>
+- <a href="https://modrinth.com/mod/mixintrace" target="_blank">MixinTrace</a>
+- <a href="https://modrinth.com/mod/modelfix" target="_blank">Model Gap Fix</a>
+- <a href="https://modrinth.com/mod/modmenu" target="_blank">Mod Menu</a>
+- <a href="https://modrinth.com/mod/morechathistory" target="_blank">MoreChatHistory</a>
+- <a href="https://modrinth.com/mod/moreculling" target="_blank">More Culling</a>
+- <a href="https://modrinth.com/mod/mouse-tweaks" target="_blank">Mouse Tweaks</a>
+- <a href="https://modrinth.com/mod/not-enough-animations" target="_blank">Not Enough Animations</a>
+- <a href="https://modrinth.com/mod/optigui" target="_blank">OptiGUI</a>
+- <a href="https://modrinth.com/mod/prism-lib" target="_blank">Prism</a>
+- <a href="https://modrinth.com/mod/puzzle" target="_blank">Puzzle</a>
+- <a href="https://modrinth.com/mod/qsl" target="_blank">Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)</a>
+- <a href="https://modrinth.com/mod/qkl" target="_blank">Quilt Kotlin Libraries (QKL)</a>
+- <a href="https://modrinth.com/mod/reeses-sodium-options" target="_blank">Reese's Sodium Options</a>
+- <a href="https://modrinth.com/mod/show-me-what-you-got" target="_blank">Show Me What You Got</a>
+- <a href="https://modrinth.com/mod/shulkerboxtooltip" target="_blank">Shulker Box Tooltip</a>
+- <a href="https://modrinth.com/mod/sodium-extra" target="_blank">Sodium Extra</a>
+- <a href="https://modrinth.com/mod/sodium" target="_blank">Sodium</a>
+- <a href="https://modrinth.com/mod/starlight" target="_blank">Starlight (Fabric)</a>
+- <a href="https://modrinth.com/mod/tool-stats" target="_blank">Tool Stats</a>
+- <a href="https://modrinth.com/mod/tooltipfix" target="_blank">ToolTipFix</a>
+- <a href="https://modrinth.com/mod/totemcounter" target="_blank">TotemCounter</a>
+- <a href="https://modrinth.com/mod/ukulib" target="_blank">ukulib</a>
+- <a href="https://modrinth.com/mod/visuality" target="_blank">Visuality</a>
+- <a href="https://modrinth.com/mod/vmp-fabric" target="_blank">Very Many Players (Fabric)</a>
+- <a href="https://modrinth.com/mod/wavey-capes" target="_blank">Wavey Capes</a>
+- <a href="https://modrinth.com/mod/whoami" target="_blank">Who am I?</a>
+- <a href="https://www.curseforge.com/minecraft/mc-mods/worldedit" target="_blank">WorldEdit</a>
+- <a href="https://modrinth.com/mod/xaeros-minimap" target="_blank">Xaero's Minimap</a>
+- <a href="https://modrinth.com/mod/xaeros-world-map" target="_blank">Xaero's World Map</a>
+- <a href="https://modrinth.com/mod/yacl" target="_blank">YetAnotherConfigLib</a>
+- <a href="https://modrinth.com/mod/zoomify" target="_blank">Zoomify</a>
