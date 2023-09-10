@@ -22,7 +22,7 @@ See [Modrinth Page](https://modrinth.com/modpack/optimal-survival) for installat
 
 ## Contributing
 
-We welcome contributions and suggestions from the community. Feel free to create issues for bugs, feature requests, or general discussions. If you'd like to contribute code, please fork the repository, make your changes, and submit a pull request.
+I welcome contributions and suggestions from the community. Feel free to create issues for bugs, feature requests, or general discussions. If you'd like to contribute code, please fork the repository, make your changes, and submit a pull request.
 
 ## Support
 
