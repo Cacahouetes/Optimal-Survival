@@ -69,6 +69,7 @@
 - <a href="https://www.curseforge.com/minecraft/mc-mods/minihud" target="_blank">MiniHUD</a>
 - <a href="https://modrinth.com/mod/mixintrace" target="_blank">MixinTrace</a>
 - <a href="https://modrinth.com/mod/modelfix" target="_blank">Model Gap Fix</a>
+- <a href="https://modrinth.com/mod/modernfix" target="_blank">Modern Fix</a>
 - <a href="https://modrinth.com/mod/modmenu" target="_blank">Mod Menu</a>
 - <a href="https://modrinth.com/mod/morechathistory" target="_blank">MoreChatHistory</a>
 - <a href="https://modrinth.com/mod/moreculling" target="_blank">More Culling</a>
