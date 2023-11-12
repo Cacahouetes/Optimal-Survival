@@ -4,6 +4,7 @@
 - <a href="https://modrinth.com/mod/animatica" target="_blank">Animatica</a>
 - <a href="https://modrinth.com/mod/antighost" target="_blank">AntiGhost</a>
 - <a href="https://modrinth.com/mod/appleskin" target="_blank">AppleSkin</a>
+- <a href="https://modrinth.com/mod/autoswitch" target="_blank">AutoSwitch</a>
 - <a href="https://modrinth.com/mod/better-beds" target="_blank">Better Beds</a>
 - <a href="https://modrinth.com/mod/betterf3" target="_blank">BetterF3</a>
 - <a href="https://modrinth.com/mod/better-mount-hud" target="_blank">Better Mount HUD</a>
@@ -52,6 +53,7 @@
 - <a href="https://modrinth.com/mod/inventory-profiles-next" target="_blank">Inventory Profiles Next</a>
 - <a href="https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge" target="_blank">Inventory HUD+</a>
 - <a href="https://modrinth.com/mod/iris" target="_blank">Iris Shaders</a>
+- <a href="https://modrinth.com/mod/item-highlighter" target="_blank">Item Highlighter</a>
 - <a href="https://modrinth.com/mod/itemphysic-lite" target="_blank">ItemPhysic Lite</a>
 - <a href="https://modrinth.com/mod/jade" target="_blank">Jade 🔍</a>
 - <a href="https://modrinth.com/mod/krypton" target="_blank">Krypton</a>
@@ -78,6 +80,7 @@
 - <a href="https://modrinth.com/mod/optigui" target="_blank">OptiGUI</a>
 - <a href="https://modrinth.com/mod/prism-lib" target="_blank">Prism</a>
 - <a href="https://modrinth.com/mod/puzzle" target="_blank">Puzzle</a>
+- <a href="https://modrinth.com/mod/quick_hotkeys" target="_blank">Quick Hotkeys</a>
 - <a href="https://modrinth.com/mod/qsl" target="_blank">Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)</a>
 - <a href="https://modrinth.com/mod/qkl" target="_blank">Quilt Kotlin Libraries (QKL)</a>
 - <a href="https://modrinth.com/mod/reeses-sodium-options" target="_blank">Reese's Sodium Options</a>
