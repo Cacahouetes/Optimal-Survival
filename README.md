@@ -1,5 +1,5 @@
 # Optimal Survival Modpack
-# New Uodate Coming Soon !
+# New Update Coming Soon !
 <p align="center">
   <img src="https://i.imgur.com/Cbs9ixz.png" alt="Optimal Survival Banner">
 </p>
