@@ -36,7 +36,7 @@ To install Optimal Survival, follow these steps:
 2. 📥 Download the modpack.
 3. 💻 If you're unsure how to install or play, check out the [Modrinth Play Documentation](https://docs.modrinth.com/modpacks/play) for detailed instructions.
 
-If you prefer, you can also explore and access specific versions on [GitHub Releases for Optimal Survival](link_to_github_releases).
+If you prefer, you can also explore and access specific versions on [GitHub Releases for Optimal Survival](https://github.com/Cacahouetes/Optimal-Survival/releases).
 
 ## Contributing
 
