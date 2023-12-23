@@ -33,8 +33,9 @@ Welcome to the world of **Optimal Survival**, where Minecraft reaches its peak p
 To install Optimal Survival, follow these steps:
 
 1. 🚀 Visit the [Modrinth Page](https://modrinth.com/modpack/optimal-survival) or the Optimal Survival.
-2. 📥 Download the modpack.
-3. 💻 If you're unsure how to install or play, check out the [Modrinth Play Documentation](https://docs.modrinth.com/modpacks/play) for detailed instructions.
+2. ⬇️ Download the modpack.
+3. 🎮 Launch Minecraft and start your enhanced adventure!
+4. 💻 If you're unsure how to install or play, check out the [Modrinth Play Documentation](https://docs.modrinth.com/modpacks/play) for detailed instructions.
 
 If you prefer, you can also explore and access specific versions on [GitHub Releases for Optimal Survival](https://github.com/Cacahouetes/Optimal-Survival/releases).
 
