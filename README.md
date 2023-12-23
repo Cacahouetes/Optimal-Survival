@@ -42,7 +42,7 @@ If you prefer, you can also explore and access specific versions on [GitHub Rele
 
 I welcome contributions and suggestions from the community. Feel free to create issues for bugs, feature requests, or general discussions. If you'd like to contribute code, please fork the repository, make your changes, and submit a pull request.
 
-**[Contribute Code](https://github.com/Cacahouetes/Optimal-Survival/pulls) | [Report Issues](https://github.com/Cacahouetes/Optimal-Survival/issues) | [General Discussions](link_to_General_Discussions)**
+**[Contribute Code](https://github.com/Cacahouetes/Optimal-Survival/pulls) | [Report Issues](https://github.com/Cacahouetes/Optimal-Survival/issues) | [General Discussions](https://github.com/Cacahouetes/Optimal-Survival/discussions/categories/general)**
 
 ## License
 
