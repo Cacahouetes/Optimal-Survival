@@ -103,11 +103,12 @@ Below is the list of mods included in the Optimal Survival modpack version 2.0.0
 99. [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric) - A Fabric mod designed to improve server performance at high playercounts.
 100. [Visuality](https://modrinth.com/mod/visuality) - Little visual improvements by adding a bunch of new particles.
 101. [Wavey Capes](https://modrinth.com/mod/wavey-capes) - The cape shouldn't be a static slab.
-102. [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
-103. [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
-104. [YetAnotherConfigLib](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
-105. [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) - Your options shall be respected.
-106. [Zoomify](https://modrinth.com/mod/zoomify) - A zoom mod with infinite customizability.
+102. [WorldEdit](https://modrinth.com/plugin/worldedit) - A Minecraft Map Editor... that runs in-game! With selections, schematics, copy and paste, brushes, and scripting. Use it in creative, or use it temporarily in survival.
+103. [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
+104. [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
+105. [YetAnotherConfigLib](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
+106. [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) - Your options shall be respected.
+107. [Zoomify](https://modrinth.com/mod/zoomify) - A zoom mod with infinite customizability.
 
 # Resource Packs
 
