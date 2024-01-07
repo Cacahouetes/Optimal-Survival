@@ -89,26 +89,27 @@ Below is the list of mods included in the Optimal Survival modpack version 2.0.0
 85. [Replanter](https://modrinth.com/mod/replanter) - Simple client side Minecraft mod for instantly replanting harvested crops.
 86. [Respackopts](https://modrinth.com/mod/respackopts) - Config menus for resource packs.
 87. [Resourcify](https://modrinth.com/mod/resourcify) - In-game resource pack, data pack and shader browser and updater.
-88. [Show Me What You Got](https://modrinth.com/mod/show-me-what-you-got) - Allows displaying your items in chat. Brag about your cool equipment!
-89. [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin) - A mod to hide or customize armor rendering.
-90. [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory.
-91. [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) - A working voice chat in Minecraft!
-92. [Sodium](https://modrinth.com/mod/sodium) - A modern rendering engine for Minecraft which greatly improves performance.
-93. [Sodium Extra](https://modrinth.com/mod/sodium-extra) - Features that shouldn't be in Sodium.
-94. [Sorted Enchantments](https://modrinth.com/mod/sorted-enchantments) -Sorts enchantments in item tooltips (alphabetically).
-95. [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) - A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
-96. [Starlight (Fabric)](https://modrinth.com/mod/starlight) - Rewrites the light engine to fix lighting performance and lighting errors.
-97. [ToolTipFix](https://modrinth.com/mod/tooltipfix) - Fixes Tooltips from runnning off the screen.
-98. [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - Tweakeroo is a client-side mod, which adds a whole bunch of various different "tweaks" to the game.
-99. [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric) - A Fabric mod designed to improve server performance at high playercounts.
-100. [Visuality](https://modrinth.com/mod/visuality) - Little visual improvements by adding a bunch of new particles.
-101. [Wavey Capes](https://modrinth.com/mod/wavey-capes) - The cape shouldn't be a static slab.
-102. [WorldEdit](https://modrinth.com/plugin/worldedit) - A Minecraft Map Editor... that runs in-game! With selections, schematics, copy and paste, brushes, and scripting. Use it in creative, or use it temporarily in survival.
-103. [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
-104. [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
-105. [YetAnotherConfigLib](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
-106. [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) - Your options shall be respected.
-107. [Zoomify](https://modrinth.com/mod/zoomify) - A zoom mod with infinite customizability.
+88. [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) - Clean and Customizable. Alternative to Just Enough Items/JEI.
+89. [Show Me What You Got](https://modrinth.com/mod/show-me-what-you-got) - Allows displaying your items in chat. Brag about your cool equipment!
+90. [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin) - A mod to hide or customize armor rendering.
+91. [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory.
+92. [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) - A working voice chat in Minecraft!
+93. [Sodium](https://modrinth.com/mod/sodium) - A modern rendering engine for Minecraft which greatly improves performance.
+94. [Sodium Extra](https://modrinth.com/mod/sodium-extra) - Features that shouldn't be in Sodium.
+95. [Sorted Enchantments](https://modrinth.com/mod/sorted-enchantments) -Sorts enchantments in item tooltips (alphabetically).
+96. [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) - A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
+97. [Starlight (Fabric)](https://modrinth.com/mod/starlight) - Rewrites the light engine to fix lighting performance and lighting errors.
+98. [ToolTipFix](https://modrinth.com/mod/tooltipfix) - Fixes Tooltips from runnning off the screen.
+99. [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) - Tweakeroo is a client-side mod, which adds a whole bunch of various different "tweaks" to the game.
+100. [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric) - A Fabric mod designed to improve server performance at high playercounts.
+101. [Visuality](https://modrinth.com/mod/visuality) - Little visual improvements by adding a bunch of new particles.
+102. [Wavey Capes](https://modrinth.com/mod/wavey-capes) - The cape shouldn't be a static slab.
+103. [WorldEdit](https://modrinth.com/plugin/worldedit) - A Minecraft Map Editor... that runs in-game! With selections, schematics, copy and paste, brushes, and scripting. Use it in creative, or use it temporarily in survival.
+104. [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
+105. [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
+106. [YetAnotherConfigLib](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
+107. [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) - Your options shall be respected.
+108. [Zoomify](https://modrinth.com/mod/zoomify) - A zoom mod with infinite customizability.
 
 # Resource Packs
 
