@@ -1,4 +1,4 @@
-# Quilt ModsList version 2.1.3 :
+# Quilt Mod List version 2.1.3 :
 
 - [FastQuit](https://modrinth.com/mod/x1hIzbuY) [3.0.0+1.20.4] by KingContaria
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0.12.3] by dzwdz, Fourmisain
