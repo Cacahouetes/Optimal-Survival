@@ -58,7 +58,7 @@
 - [Litematica](https://www.curseforge.com/projects/308892) [0.17.3] by masa
 - [Prism](https://modrinth.com/mod/1OE8wbN0) [1.0.6] by Grend
 - [Detail Armor Bar](https://modrinth.com/mod/hAt6ty93) [2.6.3+1.20.4-fabric] by RedLime
-- [essential-container](https://modrinth.com/mod/k2ZPuTBm) [1.0.0]
+- [Essential](https://modrinth.com/mod/k2ZPuTBm) [1.0.0]
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) [6.0.3] by malte0811
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) [0.2.0+alpha.11.67] by RelativityMC, ishland
 - [Boat Item View Fabric](https://modrinth.com/mod/BdKIyOLe) [0.0.5] by 50ap5ud5, Treblero
@@ -75,7 +75,7 @@
 - [Jade](https://modrinth.com/mod/nvQzSEkH) [13.3.1] by Snownee
 - [AdvancementInfo](https://modrinth.com/mod/G1epq3jN) [1.20.4-fabric0.91.2-1.4] by Giselbaer
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) [2.3.4+1.20.4] by LambdAurora
-- Presence Footsteps [1.11.3] by Hurricaaane (Ha3), Sollace
+- [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) [1.11.3] by Hurricaaane (Ha3), Sollace
 - [Gamma Utils](https://modrinth.com/mod/wdLuzzEP) [1.7.19] by Sjouwer
 - [More Chat History](https://modrinth.com/mod/8qkXwOnk) [1.3.0] by JackFred
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3.4.3] by juliand665, LostLuma
@@ -84,7 +84,6 @@
 - [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq) [4.1.0+1.20.4] by MisterPeModder
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) [2.3.0-beta.2] by opekope2
 - [Language Reload](https://modrinth.com/mod/uLbm7CG6) [1.6.1+1.20.4] by Jerozgen
-- Essential Dependencies [0]
 - [CalcMod](https://modrinth.com/mod/XoHTb2Ap) [fabric-1.20.2-1.3.1] by js802025, shadeydo
 - [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA) [14.1.727] by shedaniel
 - [MaLiLib](https://modrinth.com/mod/GcWjdA9I) [0.18.4-alpha.1] by masa
