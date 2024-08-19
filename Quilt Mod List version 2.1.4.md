@@ -2,7 +2,7 @@
 - [CICADA](https://modrinth.com/mod/IwCkru1D) [0.8.3+1.20.2-1.20.4] by enjarai
 - [Inventory Control Tweaks](https://modrinth.com/mod/sPYwFCE0) [1.3.29] by supersaiyansubtlety
 - [Cloth Config v13](https://modrinth.com/mod/9s6osm5g) [13.0.121] by shedaniel
-- Presence Footsteps [1.11.3] by Hurricaaane (Ha3), Sollace
+- [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) [1.11.3] by Hurricaaane (Ha3), Sollace
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) [6.0.3] by malte0811
 - [Polytone](https://modrinth.com/mod/3qAYkBMB) [1.20.4-1.18.10] by MehVahdJukaar
 - [Equipment Compare](https://modrinth.com/mod/CYSUVOdj) [1.3.8] by Grend
@@ -83,7 +83,6 @@
 - [AmbientSounds](https://modrinth.com/mod/fM515JnW) [5.3.9] by CreativeMD
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [11.1.17] by shedaniel
 - [Bobby](https://modrinth.com/mod/M08ruV16) [5.1.0+mc1.20.4] by johni0702
-- Essential Dependencies [0]
 - [Better Ping Display](https://modrinth.com/mod/MS1ZMyR7) [1.1.1] by Quintinity
 - [Better End Sky](https://modrinth.com/mod/SgJ1iW80) [0.2.1+1.20] by paulevs, BetterX Team
 - [3d-Skin-Layers](https://modrinth.com/mod/zV5r3pPn) [1.6.6] by tr7zw
@@ -100,7 +99,7 @@
 - [EnchantmentDescriptions](https://modrinth.com/mod/UVtY3ZAC) [20.1.7] by Darkhax
 - [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) [3.12.6+fabric-1.20.4] by TheCSDev
 - [Chest Tracker](https://modrinth.com/mod/ni4SrKmq) [2.4.13+1.20.4] by JackFred
-- [essential-container](https://modrinth.com/mod/k2ZPuTBm) [1.0.0]
+- [Essential](https://modrinth.com/mod/k2ZPuTBm) [1.3.4]
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1.12.0+kotlin.2.0.10] by FabricMC
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1.2.20+1.20.4] by RK_01
 - [Inventory HUD +](https://www.curseforge.com/projects/357540) [3.4.26] by DmitryLovin
