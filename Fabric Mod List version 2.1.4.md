@@ -2,7 +2,7 @@
 - [CICADA](https://modrinth.com/mod/IwCkru1D) [0.8.3+1.20.2-1.20.4] by enjarai
 - [Inventory Control Tweaks](https://modrinth.com/mod/sPYwFCE0) [1.3.29] by supersaiyansubtlety
 - [Cloth Config v13](https://modrinth.com/mod/9s6osm5g) [13.0.121] by shedaniel
-- Presence Footsteps [1.11.3] by Hurricaaane (Ha3), Sollace
+- [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) [1.11.3] by Hurricaaane (Ha3), Sollace
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) [6.0.3] by malte0811
 - [Polytone](https://modrinth.com/mod/3qAYkBMB) [1.20.4-1.18.10] by MehVahdJukaar
 - [Equipment Compare](https://modrinth.com/mod/CYSUVOdj) [1.3.8] by Grend
@@ -108,5 +108,4 @@
 - [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) [1.20.4-2.5.20] by Max Henkel
 - [TCD Commons API](https://modrinth.com/mod/Eldc1g37) [3.12.3+fabric-1.20.4] by TheCSDev
 - [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [24.3.0] by xaero96
-- [essential-container](https://modrinth.com/mod/k2ZPuTBm) [1.0.0]
-- Essential Dependencies [0]
+- [Essential](https://modrinth.com/mod/k2ZPuTBm) [1.3.4]
