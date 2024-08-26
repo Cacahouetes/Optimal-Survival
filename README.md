@@ -1,47 +1,52 @@
+Certainly! Here's a revised version of your modpack description, inspired by your changelog and the additional details you've provided:
+
+---
+
 # 🚀 Optimal Survival Modpack
-# 🌟 New Update: Version 2.0.0!
+# 🌟 New Update: Version 3.0!
+
 <p align="center">
   <img src="https://i.imgur.com/Cbs9ixz.png" alt="Optimal Survival Banner">
 </p>
 
-Welcome to the world of **Optimal Survival**, where Minecraft reaches its peak performance and gameplay experience. This modpack is designed to enhance your journey in the Minecraft universe by providing improved FPS, quality of life enhancements, and a touch of creativity that takes your adventure to the next level.
+Welcome to **Optimal Survival**, the ultimate Minecraft modpack that prioritizes performance, quality of life enhancements, and technological advancements. In this latest version, I've completely overhauled the modpack to deliver an even smoother and more immersive Minecraft experience, with a focus on maximizing FPS and refining gameplay.
 
 ## Features
 
-- **Enhanced Performance**: Enjoy smoother gameplay and improved frame rates thanks to cutting-edge performance mods like Sodium and Lithium.
+- **Enhanced Performance**: Enjoy twice the FPS compared to previous versions, thanks to the removal of heavy visual mods and the addition of cutting-edge performance enhancements. Say goodbye to lag and hello to seamless gameplay.
 
-- **Quality of Life Upgrades**: Experience a more convenient and enjoyable gameplay with features like organized inventories, and various enhancements that make your journey hassle-free.
+- **Quality of Life Upgrades**: Explore a more streamlined and convenient Minecraft world with a range of mods designed to make your journey hassle-free. From organized inventories to easy world hosting with **E4MC**, everything is optimized for your comfort.
 
-- **Visual Excellence**: Immerse yourself in the stunning world of Minecraft with improved visuals and shader support. Discover the beauty of your surroundings like never before.
+- **Technological Integration**: Dive into advanced tech mods like **CalcMod** and **Carpet** that add depth and complexity to your Minecraft adventures. Whether you're automating processes or experimenting with new mechanics, this modpack has you covered.
 
-- **Open Development**: My modpack is open-source, with the community's input at its heart.
+- **Customizable Visuals**: While the focus has shifted away from heavy visuals, you can still enjoy enhanced graphics with mods like **Blur+** and **Motion Blur**. Customize your experience by adjusting blur effects directly in-game.
 
-## What's New in Version 2.0.0
+- **Open Development**: This modpack is open-source and driven by community input. Your feedback and contributions are crucial to its ongoing development.
 
-- 🔄 **Major Update**: Optimal Survival has undergone a massive transformation with the release of version 2.0.0!
-  
-- 🌐 **Key Additions**: Introducing new mods such as [CalcMod](https://modrinth.com/mod/calcmod), [Cosmetica](https://modrinth.com/mod/cosmetica), [Paginated Advancements & Custom Frames](https://modrinth.com/mod/paginatedadvancements), and more!
+## What's New in Version 3.0
 
-- 🚀 **Total Overhaul**: The modpack has been completely revamped to elevate the overall quality of life for players.
+- 🔄 **Complete Revamp**: This version introduces a significant transformation of the modpack, prioritizing performance and quality of life over flashy visuals. With fewer mods but better optimization, your gameplay will be smoother than ever.
 
-- ⚙️ **Fabric Integration**: Optimal Survival has transitioned to [Fabric](https://fabricmc.net/) for more efficient mod management and better compatibility.
+- 🌐 **Key Removals**: To enhance performance, mods such as **Essentiel**, **Visuality**, **Enchantment Descriptions**, **Resourcify**, **Sound Physics Remastered**, and **Cosmetica** have been removed.
 
-- 🌈 **New Default Configuration**: Thanks to the [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) mod, enjoy a fresh and optimized default setup.
+- ➕ **New Additions**: I've added essential mods like **E4MC** for world hosting, **Screenshot to Clipboard** for easy sharing, **Entity Sound Features** for immersive audio, **No Resource Pack Warnings** for a cleaner experience, and more.
+
+- 🎨 **Visual Customization**: Added **Blur+** and **Motion Blur** for those who enjoy subtle visual enhancements. You can easily toggle or adjust these effects to suit your preferences.
 
 ## Installation
 
 To install Optimal Survival, follow these steps:
 
-1. 🚀 Visit the [Modrinth Page](https://modrinth.com/modpack/optimal-survival) or the Optimal Survival.
+1. 🚀 Visit the [Modrinth Page](https://modrinth.com/modpack/ypVlq7MG) or the [GitHub page](https://github.com/Cacahouetes/Optimal-Survival).
 2. ⬇️ Download the modpack.
-3. 🎮 Launch Minecraft and start your enhanced adventure!
-4. 💻 If you're unsure how to install or play, check out the [Modrinth Play Documentation](https://docs.modrinth.com/modpacks/play) for detailed instructions.
+3. 🎮 Launch Minecraft and dive into your optimized adventure!
+4. 💻 For detailed installation instructions, refer to the [Modrinth Play Documentation](https://docs.modrinth.com/modpacks/play).
 
-If you prefer, you can also explore and access specific versions on [GitHub Releases for Optimal Survival](https://github.com/Cacahouetes/Optimal-Survival/releases).
+You can also access specific versions and mod lists on the [GitHub Releases for Optimal Survival](https://github.com/Cacahouetes/Optimal-Survival/releases).
 
 ## Contributing
 
-I welcome contributions and suggestions from the community. Feel free to create issues for bugs, feature requests, or general discussions. If you'd like to contribute code, please fork the repository, make your changes, and submit a pull request.
+I welcome contributions and suggestions from the community. If you encounter bugs, have feature requests, or simply want to discuss the modpack, feel free to reach out. To contribute code, fork the repository, make your changes, and submit a pull request.
 
 **[Contribute Code](https://github.com/Cacahouetes/Optimal-Survival/pulls) | [Report Issues](https://github.com/Cacahouetes/Optimal-Survival/issues) | [General Discussions](https://github.com/Cacahouetes/Optimal-Survival/discussions/1)**
 
@@ -51,4 +56,4 @@ This modpack is released under the [MIT License](https://github.com/Cacahouetes/
 
 ---
 
-Elevate your Minecraft experience with **Optimal Survival** modpack. Unleash the power of enhanced performance, quality of life upgrades, and creative exploration. Join us in crafting the ultimate adventure! 🌟🎮🚀🌈
+Elevate your Minecraft experience with the **Optimal Survival** modpack. Achieve unparalleled performance, explore advanced technology, and enjoy a streamlined, customizable gameplay experience. Join us on this journey to crafting the ultimate Minecraft adventure! 🌟🎮🚀
