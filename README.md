@@ -1,5 +1,3 @@
-Certainly! Here's a revised version of your modpack description, inspired by your changelog and the additional details you've provided:
-
 ---
 
 # 🚀 Optimal Survival Modpack
